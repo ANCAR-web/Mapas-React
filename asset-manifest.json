@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mapas-React/static/css/main.104146ff.css",
+    "main.js": "/Mapas-React/static/js/main.d177f83a.js",
+    "static/media/Imagen.png": "/Mapas-React/static/media/Imagen.e601c9b298ddb7fe8b4b.png",
+    "static/media/Tierra-inicio.mp4": "/Mapas-React/static/media/Tierra-inicio.c6043d6c61ec245407f5.mp4",
+    "static/media/Infraestructura": "/Mapas-React/static/media/Infraestructura.b929700ab56fe7d349c5",
+    "static/media/Fotagamteria.jpg": "/Mapas-React/static/media/Fotagamteria.52760a808e39e678b5bc.jpg",
+    "static/media/Imagen2.jpg": "/Mapas-React/static/media/Imagen2.a989fbf93641b1e13baa.jpg",
+    "static/media/Imagen1.jpg": "/Mapas-React/static/media/Imagen1.02701bfe5ddd8797016b.jpg",
+    "static/media/Evalucion_riesgo.jpg": "/Mapas-React/static/media/Evalucion_riesgo.f0e8e5079a43ef02187c.jpg",
+    "static/media/rotacion-de-la-tierra.png": "/Mapas-React/static/media/rotacion-de-la-tierra.a70eebccfa5812ccbe63.png",
+    "index.html": "/Mapas-React/index.html",
+    "main.104146ff.css.map": "/Mapas-React/static/css/main.104146ff.css.map",
+    "main.d177f83a.js.map": "/Mapas-React/static/js/main.d177f83a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104146ff.css",
+    "static/js/main.d177f83a.js"
+  ]
+}
